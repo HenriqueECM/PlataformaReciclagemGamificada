@@ -3,6 +3,7 @@
 ## Sumário
 
 * Descrição do Projeto
+* Objetivo
 * Tecnologias Utilizadas
 * Como Aplicar
 * Nossa Equipe
